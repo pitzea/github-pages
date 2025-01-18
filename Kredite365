@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Kredite365 - Ihr zuverlässiger Darlehensvermittler. Kontaktieren Sie uns für Ihre Kreditlösungen.">
+    <title>Kredite365 - Ihr Darlehensvermittler</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+            color: #333;
+        }
+        header {
+            background-color: #0047ab;
+            color: white;
+            padding: 1rem;
+            text-align: center;
+        }
+        nav {
+            background-color: #003580;
+            padding: 0.5rem;
+            text-align: center;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 0 1rem;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+        section {
+            max-width: 800px;
+            margin: 2rem auto;
+            padding: 1rem;
+            background: white;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #0047ab;
+        }
+        footer {
+            background-color: #0047ab;
+            color: white;
+            text-align: center;
+            padding: 1rem;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+        .contact-details {
+            list-style: none;
+            padding: 0;
+        }
+        .contact-details li {
+            margin: 0.5rem 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Kredite365</h1>
+        <p>Ihr zuverlässiger Darlehensvermittler</p>
+    </header>
+    <nav>
+        <a href="#about">Über uns</a>
+        <a href="#services">Unsere Leistungen</a>
+        <a href="#contact">Kontakt</a>
+    </nav>
+    <section id="about">
+        <h2>Über uns</h2>
+        <p>Willkommen bei Kredite365! Wir sind Ihr vertrauenswürdiger Partner, wenn es um die Vermittlung von Darlehen geht. 
+        Unsere Mission ist es, Ihnen die besten Kreditlösungen anzubieten, die perfekt auf Ihre Bedürfnisse zugeschnitten sind.</p>
+    </section>
+    <section id="services">
+        <h2>Unsere Leistungen</h2>
+        <p>Wir bieten Ihnen maßgeschneiderte Lösungen in den folgenden Bereichen:</p>
+        <ul>
+            <li>Privatkredite</li>
+            <li>Immobilienfinanzierung</li>
+            <li>Unternehmenskredite</li>
+            <li>Umschuldung</li>
+        </ul>
+    </section>
+    <section id="contact">
+        <h2>Kontakt</h2>
+        <p>Kontaktieren Sie uns für ein unverbindliches Beratungsgespräch:</p>
+        <ul class="contact-details">
+            <li><strong>Telefon:</strong> +49 123 456 7890</li>
+            <li><strong>Email:</strong> info@kredite365.de</li>
+            <li><strong>Adresse:</strong> Musterstraße 1, 12345 Musterstadt, Deutschland</li>
+        </ul>
+    </section>
+    <footer>
+        <p>&copy; 2025 Kredite365. Alle Rechte vorbehalten.</p>
+    </footer>
+</body>
+</html>
